@@ -1,7 +1,5 @@
 public class App{
 	public static void main(String args[]){
-		System.out.println("Starting ...");
-		System.out.println("Doing ...");
-		System.out.println("Finishing ...");
+		System.out.println("Another message");
 	}
 }
